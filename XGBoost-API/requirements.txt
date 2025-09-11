@@ -1,0 +1,8 @@
+streamlit
+pandas
+joblib
+xgboost
+azure-cosmos==4.0.0
+scikit-learn
+plotly
+Image
