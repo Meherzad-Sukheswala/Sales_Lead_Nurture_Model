@@ -2,8 +2,8 @@ streamlit
 pandas
 joblib
 xgboost
-azure-cosmos==4.0.0
 scikit-learn==1.7.0
 plotly
-Image
-
+Pillow
+requests
+openpyxl
